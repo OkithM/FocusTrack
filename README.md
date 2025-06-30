@@ -41,8 +41,7 @@ A productivity application built with Flutter to help you manage and track your 
 
 ## 📱 Screenshots
 
-![Screenshot of the main application dashboard](screenshot/Screenshot_20250630-121239.png "Application Dashboard")
-![](screenshot/Screenshot_20250630-121259.png)
+<img src="screenshot/Screenshot_20250630-121259.png" width="200px">
 
 ## 🛠️ Technologies Used
 
