@@ -41,7 +41,14 @@ A productivity application built with Flutter to help you manage and track your 
 
 ## 📱 Screenshots
 
+<img src="screenshot/Screenshot_20250630-121422.png" width="200px">
+<img src="screenshot/Screenshot_20250630-121239.png" width="200px">
 <img src="screenshot/Screenshot_20250630-121259.png" width="200px">
+<img src="screenshot/Screenshot_20250630-121303.png" width="200px">
+<img src="screenshot/Screenshot_20250630-121326.png" width="200px">
+<img src="screenshot/Screenshot_20250630-121334.png" width="200px">
+<img src="screenshot/Screenshot_20250630-121411.png" width="200px">
+<img src="screenshot/Screenshot_20250630-121416.png" width="200px">
 
 ## 🛠️ Technologies Used
 
