@@ -71,7 +71,7 @@ A productivity application built with Flutter to help you manage and track your 
 
 ### Installation
 
-[Download for Android: ](https://github.com/OkithM/FocusTrack/releases/download/v1.0.0/FocusTrack.apk)
+[Download for Android](https://github.com/OkithM/FocusTrack/releases/download/v1.0.0/FocusTrack.apk)
 
 
 ## 💡 Usage
