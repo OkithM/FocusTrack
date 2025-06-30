@@ -41,7 +41,7 @@ A productivity application built with Flutter to help you manage and track your 
 
 ## 📱 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 <img src="screenshot/Screenshot_20250630-121422.png" width="200px">
 <img src="screenshot/Screenshot_20250630-121239.png" width="200px">
 <img src="screenshot/Screenshot_20250630-121259.png" width="200px">
