@@ -71,8 +71,11 @@ A productivity application built with Flutter to help you manage and track your 
 
 ### Installation
 
-[Download for Android](https://github.com/OkithM/FocusTrack/releases/download/v1.0.0/FocusTrack.apk)
-
+- **join as a Tester**
+    - <a href="https://groups.google.com/g/foucstrack">Join Google Group</a>
+    - Download links will be on Group description or use links below 
+        - <a href="https://play.google.com/store/apps/details?id=com.okithm.focustrack">Join on Android</a>
+        - <a href="https://play.google.com/apps/testing/com.okithm.focustrack">Join on Web</a>
 
 ## 💡 Usage
 
