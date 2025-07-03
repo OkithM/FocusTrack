@@ -72,8 +72,8 @@ A productivity application built with Flutter to help you manage and track your 
 ### Installation
 
 - **join as a Tester**
-    - <a href="https://groups.google.com/g/foucstrack">Join Google Group</a>
-    - Download links will be on Group description or use links below 
+    1. <a href="https://groups.google.com/g/foucstrack">Join Google Group</a>
+    2. Download links will be on Group description or use links below 
         - <a href="https://play.google.com/store/apps/details?id=com.okithm.focustrack">Join on Android</a>
         - <a href="https://play.google.com/apps/testing/com.okithm.focustrack">Join on Web</a>
 
