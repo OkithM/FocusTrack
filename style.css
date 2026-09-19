@@ -117,19 +117,12 @@ header {
 .logo-icon {
     width: 32px;
     height: 32px;
-    background: conic-gradient(from 180deg at 50% 50%, var(--accent-blue) 0deg, var(--accent-yellow) 180deg, var(--accent-purple) 360deg);
-    border-radius: 50%;
+    background: url("icon.webp");
+    background-size: cover;
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-.logo-icon::after {
-    content: '';
-    width: 16px;
-    height: 16px;
-    background-color: var(--bg-color);
-    border-radius: 50%;
 }
 
 .hero {
@@ -341,7 +334,7 @@ header {
 .author-avatar {
     width: 40px;
     height: 40px;
-    background-color: var(--accent-purple);
+    background-color: var(--accent-blue);
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
